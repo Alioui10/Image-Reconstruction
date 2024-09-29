@@ -1,8 +1,8 @@
-#Scientific Computing Project: Eigenvalue Computation and Image Compression
-#Project Overview
+# Scientific Computing Project: Eigenvalue Computation and Image Compression
+# Project Overview
 
 This project focuses on implementing and optimizing numerical methods for computing eigenvalues and eigenvectors of large matrices, particularly using power iteration and subspace iteration methods. Additionally, the project explores the application of these methods in image compression.
-##Key Features:
+## Key Features:
 
     Power Iteration Method:
         Limitations and performance analysis for eigenvalue computation.
@@ -19,7 +19,7 @@ This project focuses on implementing and optimizing numerical methods for comput
         Using eigenvalue decomposition for image compression.
         Analysis of different methods in terms of execution time and compression quality.
 
-##Implementation
+## Implementation
 Power Iteration Method
 
 A simple iterative method for finding the dominant eigenvalue and eigenvector of a matrix. Limitations are explored for large matrix sizes, showing slower convergence and potential accuracy issues.
